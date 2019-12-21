@@ -1,0 +1,5 @@
+[
+    {"id": 1, "title": "联想小新Air4 R5", "price": 4199, "inventory": 23},
+    {"id": 2, "title": "华为MateBook 13", "price": 5199, "inventory": 37},
+    {"id": 3, "title": "戴尔G3游戏本 i5", "price": 6298, "inventory": 15}
+]
