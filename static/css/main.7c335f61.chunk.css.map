@@ -1,0 +1,1 @@
+{"version":3,"sources":["button.css","Main.css"],"names":[],"mappings":"AAAA,OACI,kBAAkB,CAClB,aACJ,CCHA,0BACI,iBACJ","file":"main.7c335f61.chunk.css","sourcesContent":[".style{\n    background:#e8e8e8;\n    color:#8c8c8c\n}",".header {\r\n    text-align: center;\r\n}"]}

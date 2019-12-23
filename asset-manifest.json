@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hibiyo/shop-cart/static/css/main.7c335f61.chunk.css",
+    "main.js": "/hibiyo/shop-cart/static/js/main.b9fcf435.chunk.js",
+    "main.js.map": "/hibiyo/shop-cart/static/js/main.b9fcf435.chunk.js.map",
+    "runtime-main.js": "/hibiyo/shop-cart/static/js/runtime-main.b636f681.js",
+    "runtime-main.js.map": "/hibiyo/shop-cart/static/js/runtime-main.b636f681.js.map",
+    "static/js/2.8ba5229e.chunk.js": "/hibiyo/shop-cart/static/js/2.8ba5229e.chunk.js",
+    "static/js/2.8ba5229e.chunk.js.map": "/hibiyo/shop-cart/static/js/2.8ba5229e.chunk.js.map",
+    "index.html": "/hibiyo/shop-cart/index.html",
+    "precache-manifest.22a46e2bafd1e586ab023d9554df205e.js": "/hibiyo/shop-cart/precache-manifest.22a46e2bafd1e586ab023d9554df205e.js",
+    "service-worker.js": "/hibiyo/shop-cart/service-worker.js",
+    "static/css/main.7c335f61.chunk.css.map": "/hibiyo/shop-cart/static/css/main.7c335f61.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b636f681.js",
+    "static/js/2.8ba5229e.chunk.js",
+    "static/css/main.7c335f61.chunk.css",
+    "static/js/main.b9fcf435.chunk.js"
+  ]
+}
