@@ -1,14 +1,20 @@
-import React from 'react'
-import { render } from 'react-dom'
-import { Provider } from 'react-redux'
+import dva from 'dva';
+import './index.css';
+import createLoading from 'dva-loading';
+import products from './models/products';
+import cart from './models/cart';
+// 1. Initialize
+const app = dva();
 
-import App from './containers/App'
-import { store } from './redux/store'
+// 2. Plugins
+// app.use({});
+app.use(createLoading());
+// 3. Model
+// app.model(require('./models/example').default);
+app.model(products);
+app.model(cart);
+// 4. Router
+app.router(require('./router').default);
 
-render((
-    <Provider store={store}>
-        <App/>
-    </Provider>
-    ),
-    document.getElementById('root')
-)
+// 5. Start
+app.start('#root');
